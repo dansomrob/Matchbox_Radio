@@ -8,7 +8,7 @@ To first understand how an radio works, we need to understand how a transistor (
 
 Specifically we lookat common emitter transistors, as wellas biasing transistors.
 
-We also explore some important transistor circuits, such as current mirrors and differential pairs.
+We also explore some important transistor circuits, such as current mirrors and darlington pairs.
 
 ##  Amplifiers 
 
