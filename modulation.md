@@ -4,4 +4,8 @@ For this project we're only going to look at AM (amplitude modulation). Therefor
 
 ## AM Modulation
 
+![modulation1.png](./modulation1.png)
+
+![modulation2.png](./modulation2.png)
+
 ## De-Modulation

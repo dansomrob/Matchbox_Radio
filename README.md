@@ -32,4 +32,4 @@ After detection, we must process our signal to return the orginal signal wavefor
 
 Berkeley has a course, EE105, which contains brilliant lab scripts 
 
-The website (https://petervis.com/Radios/ta7642/7642.html)[https://petervis.com/Radios/ta7642/ta7642.ytml] (working link as of 27/09/22) has a brilliant write upof making a simple AM radio with the TA7642 IC chip.
+The website [https://petervis.com/Radios/ta7642/7642.html](https://petervis.com/Radios/ta7642/ta7642.ytml) (working link as of 27/09/22) has a brilliant write upof making a simple AM radio with the TA7642 IC chip.
